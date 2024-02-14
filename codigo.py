@@ -1,2 +1,2 @@
-print(5+10)
+print(5+15)
 print('Buena suma')
