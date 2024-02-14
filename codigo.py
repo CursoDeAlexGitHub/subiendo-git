@@ -1,3 +1,4 @@
-numero1 = 5
-numero2 = 10
-print(numero1 + numero2)
+num1 = 5
+num2 = 8
+resultado = f' {num1 + num2} hola como estas che' 
+print(resultado)
